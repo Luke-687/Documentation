@@ -1,4 +1,4 @@
-Backyard ANimal Detection
+Backyard Animal Detection
 
 This project when run correctly whill be able to identify animals that you would commonly see in your backyard which could be either eating your plants, or even stuck within the fence
 
@@ -8,6 +8,7 @@ This project when run correctly whill be able to identify animals that you would
 The Algorithm
 
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+The Algorthm of the Animal Detection uses a self trained model to create a nueral network that can connect the train images down to the test images using their computer generated visual realtionships. The algorithm relies on imputing certain animals in a clear way, and while not the best can work with those images relatively well.
 
 Running this project
 
